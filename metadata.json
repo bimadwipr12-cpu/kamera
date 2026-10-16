@@ -1,0 +1,9 @@
+{
+  "name": "AquaTone Camera",
+  "description": "Aplikasi kamera MVP untuk Sharp AQUOS R7s dengan kontrol eksposur langsung, zoom presisi, dan profil warna Natural, Hangat, dan Mono.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
